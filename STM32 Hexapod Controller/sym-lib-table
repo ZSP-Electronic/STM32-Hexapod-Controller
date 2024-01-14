@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LSM6DSO")(type "KiCad")(uri "${KIPRJMOD}/Symbols/2023-12-29_18-20-17.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56528DDAR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TPS56528DDAR.kicad_sym")(options "")(descr ""))
+)
